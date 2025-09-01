@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**FryingDory/FryingDory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Dev!  
 
-Here are some ideas to get you started:
+🐸 **Second-year AI/ML student** learning by building [projects](https://github.com/codecrafters-io/build-your-own-x).  
+📚 Currently exploring **App Development**, **Machine Learning**, and **DSA**.  
+⚡ Building small automation tools & apps for **project-based learning**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I’m Up To  
+- Learning in public, one project at a time  
+- Sharing everything I build here on GitHub  
+
+---
+
+### 🔗 Find Me Around  
+[LinkedIn](https://www.linkedin.com/feed/) 
+
+
+
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=FryingDory)](https://github.com/anuraghazra/github-readme-stats)
